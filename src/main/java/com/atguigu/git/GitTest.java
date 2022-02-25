@@ -16,6 +16,7 @@ public class GitTest {
         System.out.println("pullTest");
         System.out.println("sshPushTest");
         System.out.println("zjPushTest");
+        System.out.println("zjPullTest");
     }
 
 }
